@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<link rel="me" href="https://toot.tom-eric.info/@tomeric">
+<span rel="me" href="https://toot.tom-eric.info/@tomeric">Mastodon</span>

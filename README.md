@@ -2,7 +2,7 @@
 
 Hi! My name is Tom-Eric Gerritsen. I am co-founder and lead-developer at Eet.nu. I love programming and all other aspects of development.
 
-📫 How to reach me: <a rel="me" href="https://toot.tom-eric.info/@tomeric">Mastodon</a>, or <a href="mailto:ik@tom-eric.info">e-mail me</a>.
+📫 How to reach me: <a rel="nofollow me" href="https://toot.tom-eric.info/@tomeric">Mastodon</a>, or <a href="mailto:ik@tom-eric.info">e-mail me</a>.
 
 <!--
 **tomeric/tomeric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<span rel="me" href="https://toot.tom-eric.info/@tomeric">Mastodon</span>
